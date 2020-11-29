@@ -14,18 +14,17 @@ A C atom has configuration 1s2 2s2 2p2. We can ignore the closed shells, so we l
 Giving N and n to the script outputs:
 
 Type number of electrons: 2
-   Type number of spatial orbitals: 2
+Type number of spatial orbitals: 2
 
-   The total number of states for your system is:      6
+The total number of states for your system is:      6
 
-   Your possible spin multiplicities are: 3 1
+Your possible spin multiplicities are: 3 1
 
-   The number of roots for the multiplicity   3 is:    1
-   The number of roots for the multiplicity   1 is:    3
+The number of roots for the multiplicity   3 is:    1
+The number of roots for the multiplicity   1 is:    3
 
+The weigths of the roots are: 0.250000, 0.750000
 
-   The weigths of the roots are: 0.250000, 0.750000
+Sum of (Multiplicity x number of roots) gives:      6
 
-   Sum of (Multiplicity x number of roots) gives:      6
-
-   Everything correct!
+Everything correct!
